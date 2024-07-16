@@ -1,0 +1,5 @@
+[
+    {"id":1,"name":"samsung1","price":"18000 BDT","status":"good"},
+    {"id":2,"name":"samsung2","price":"28000 BDT","status":"good"},
+    {"id":3,"name":"samsung3","price":"15000 BDT","status":"medium"}
+]
