@@ -1,0 +1,5 @@
+[
+    {"id":1,"name":"samsung1","price":12000,"status":"good"},
+    {"id":2,"name":"samsung2","price":15000,"status":"bad"},
+    {"id":3,"name":"samsung3","price":22000,"status":"very good"}
+]
